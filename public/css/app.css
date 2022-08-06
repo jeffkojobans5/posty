@@ -31,7 +31,7 @@ a {
     font-size: 15px;
     font-weight: bold;
 }
-input {
+input , textarea {
     outline: none !important;
     box-shadow: none !important;
 }
@@ -42,4 +42,12 @@ input {
 
 small {
     color: red;
+}
+
+.links {
+    color: black;
+}
+
+.paginate svg {
+    width: 30px;
 }
